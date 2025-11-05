@@ -1,7 +1,7 @@
 
 spring:
   application:
-    name: USER-SERVICE-PROD
+    name: USER-SERVICE
 
 eureka:
   instance:
